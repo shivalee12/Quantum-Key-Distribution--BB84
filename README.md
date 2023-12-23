@@ -5,8 +5,7 @@
 ## Getting started
 Steps to follow
 
-1. initialise quantum circuit of sender and reciever
-
+1. initialise quantum circuit of sender and reciever//
 use function `make_init` 
 2. set a random key for sender
 
